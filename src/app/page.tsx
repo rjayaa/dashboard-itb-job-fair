@@ -1,4 +1,3 @@
-// app/page.tsx - Página principal del dashboard
 import Dashboard from '@/components/Dashboard';
 
 export default function Home() {
